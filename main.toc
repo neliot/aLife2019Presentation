@@ -1,4 +1,4 @@
-\beamer@sectionintoc {1}{How did we do that?}{3}{0}{1}
+\beamer@sectionintoc {1}{How did we do that? }{3}{0}{1}
 \beamer@sectionintoc {2}{Set the Ground Rules!}{4}{0}{2}
 \beamer@subsectionintoc {2}{1}{Swarm Rules}{4}{0}{2}
 \beamer@sectionintoc {3}{Communications and/or Sensing}{5}{0}{3}
