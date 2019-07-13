@@ -107,6 +107,18 @@
   \titlepage
 \end{frame}
 
+\begin{frame}{Video}
+  \begin{center}
+    \begin{figure}
+      \begin{center}
+        \includegraphics[width=7cm]{Simulator.pdf}
+      \end{center}
+      \caption{Simulator}
+    \end{figure}
+    \href{https://www.youtube.com/watch?v=iyMSpj10elk}{https://www.youtube.com/watch?v=iyMSpj10elk}
+  \end{center}
+\end{frame}  
+\section{How did we do that?}
 \begin{frame}{Introduction}
   \tableofcontents
   % You might wish to add the option [pausesections]
@@ -114,8 +126,8 @@
 
 % Section and subsections will appear in the presentation overview
 % and table of contents.
-\section{Set the Ground Rules!}
 
+\section{Set the Ground Rules!}
 \subsection{Swarm Rules}
 
 \begin{frame}{Swarm Rules}
@@ -126,8 +138,8 @@
   \item {
     We consider swarms of agents that:
     \begin{itemize}
-      \item Do not require any another form of communication. 
       \item Capable of detecting their neighbours (proximity detection). 
+      \item Do not require any another form of communication. 
     \end{itemize}
   }
   \item {
@@ -197,6 +209,9 @@
 \end{frame}
 
 \begin{frame}{Agent Movement}
+  \begin{itemize}
+    \item Agent movement is computed as the weighted sum of 4 vectors, as shown in equation \ref{eq:BotPhysics1}
+  \end{itemize}
   \begin{equation}\label{eq:BotPhysics1}
     v(b) = k_cv_c(b) + k_rv_r(b) + k_dv_d(b) + k_ov_o(b)
   \end{equation}
@@ -247,7 +262,7 @@
     \begin{center}
       \includegraphics[width=5cm]{Perimeters.pdf}
     \end{center}
-    \caption{Internal and external perimeters}
+    \caption{Internal (\textcolor{red}{red}) and external (\textcolor{green}{green}) perimeters}
   \end{figure}
 \end{frame}
 
@@ -280,10 +295,10 @@
       \caption{Concave detection}
     \end{figure}
   \column{0.5\textwidth}
-    As part of the perimeter detection a set ($G_b$) of agents is generated. This set is the first two agents identified as creating a `gap' in agent $b$'s neighbours. Equation~\ref{eq:ConcaveVoidPhysics3} calculates the centroid of the identified `gap'.
+    As part of the perimeter detection a pair ($G_b$) of agents is generated. This is the first two agents identified as creating a `gap' in agent $b$'s neighbours. Equation~\ref{eq:ConcaveVoidPhysics3} calculates the centroid of the identified `gap'.
     \begin{center}
       \begin{equation}‎
-      D_{pos}(b)=\frac{1}{2}\mathlarger{\sum_{b' \in G_b}}{b'}
+      D_{pos}(b)=\frac{1}{2}\mathlarger{\sum_{n \in G_b}}{n}
       \label{eq:ConcaveVoidPhysics3}‎
       \end{equation}
     \end{center}
@@ -339,18 +354,6 @@
       \end{center}
       \caption{Oil Slick Encapsulation}
     \end{figure}
-  \end{center}
-\end{frame}  
-
-\begin{frame}{Video}
-  \begin{center}
-    \begin{figure}
-      \begin{center}
-        \includegraphics[width=7cm]{Simulator.pdf}
-      \end{center}
-      \caption{Simulator}
-    \end{figure}
-    \href{https://www.youtube.com/watch?v=iyMSpj10elk}{https://www.youtube.com/watch?v=iyMSpj10elk}
   \end{center}
 \end{frame}  
 
