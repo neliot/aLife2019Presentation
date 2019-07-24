@@ -29,9 +29,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="992"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
@@ -123,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -281,16 +281,6 @@
        style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:type="arc"
        transform="matrix(-1.00771,0,0,1,783.51116,188)" />
-    <path
-       d="m 215,276.36218 a 19,19 0 1 1 -38,0 19,19 0 1 1 38,0 z"
-       sodipodi:ry="19"
-       sodipodi:rx="19"
-       sodipodi:cy="276.36218"
-       sodipodi:cx="196"
-       id="path2987-0-3"
-       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
-       sodipodi:type="arc"
-       transform="matrix(-1.00771,0,0,1,245.51116,231)" />
     <path
        d="m 215,276.36218 a 19,19 0 1 1 -38,0 19,19 0 1 1 38,0 z"
        sodipodi:ry="19"
@@ -456,19 +446,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-59.739101"
-       y="515.81049"
+       x="-73.34037"
+       y="526.34637"
        id="text4627"
        transform="rotate(-16.7)"><tspan
          sodipodi:role="line"
          id="tspan4625"
-         x="-59.739101"
-         y="515.81049"
-         style="font-size:18.66666603px">DATA</tspan></text>
+         x="-73.34037"
+         y="526.34637"
+         style="font-size:32px">DATA</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.07465219;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 48,507.36218 638,-199"
        id="path4629"
        inkscape:connector-curvature="0" />
+    <ellipse
+       id="path2987-0-3"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.0038476px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
+       transform="scale(-1,1)"
+       cx="-48"
+       cy="507.36218"
+       rx="19.14649"
+       ry="19" />
   </g>
 </svg>

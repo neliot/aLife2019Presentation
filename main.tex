@@ -1,17 +1,3 @@
-% Copyright 2004 by Till Tantau <tantau@users.sourceforge.net>.
-%
-% In principle, this file can be redistributed and/or modified under
-% the terms of the GNU Public License, version 2.
-%
-% However, this file is supposed to be a template to be modified
-% for your own needs. For this reason, if you use this file as a
-% template and not specifically distribute it as part of a another
-% package/program, I grant the extra permission to freely copy and
-% modify this file as you see fit and even to delete this copyright
-% notice. 
-
-
-
 \documentclass{beamer}
 \newcommand{\card}[1]{\vert{#1}\vert}
 \newcommand{\magn}[1]{\vert{#1}\vert}
@@ -139,8 +125,8 @@
   \item {
     We consider swarms of agents that:
     \begin{itemize}
-      \item Capable of detecting their neighbours (proximity detection). 
-      \item Do not require any another form of communication. 
+      \item are capable of detecting their neighbours (proximity detection). 
+      \item do not require any another form of communication. 
     \end{itemize}
   }
   \item {
@@ -157,7 +143,7 @@
     \column{0.5\textwidth}
       \begin{itemize}
         \item {
-          Communication propagation protocol overhead.
+          Communication propagation protocol demands computing overhead.
           \begin{itemize}
             \item $n_1 \rightarrow n_3$
             \item $n_1 \rightarrow n_2$
@@ -190,13 +176,13 @@
     \column{0.5\textwidth}
     \begin{itemize}
       \item {
-        Proximity detection only, no other form of communication required.
+        No communication is necessary apart from proximity detection.
       }
       \item {   
-        Arbitrary sized swarms possible.
+        Arbitrary sized swarms are possible.
       }
       \item {   
-        Agent attributes include various ranges (as shown in figure).
+        Agent attributes include various ranges as shown in figure.
       }
     \end{itemize}
       \column{0.5\textwidth}
@@ -204,24 +190,24 @@
         \begin{center}
         \includegraphics[width=5cm]{Proximity.pdf}
         \end{center}
-        \caption{Ranges - $R_b$ - repulsion, $C_b$ - cohesion, $S_b$ - sensing, and $O_b$ - obstacles avoidance.}
+        \caption{Ranges: $S_b$ = sensing, $O_b$ = obstacles avoidance, $R_b$ = repulsion, $C_b$ = cohesion.}
       \end{figure}
   \end{columns} 
 \end{frame}
 
 \begin{frame}{Agent Movement}
   \begin{itemize}
-    \item Agent movement is computed as the weighted sum of 4 vectors, as shown in equation \ref{eq:BotPhysics1}
+    \item Movement of agent $b$ is computed as the weighted sum of 4 vectors, as shown in equation \ref{eq:BotPhysics1}
   \end{itemize}
   \begin{equation}\label{eq:BotPhysics1}
     v(b) = k_cv_c(b) + k_rv_r(b) + k_dv_d(b) + k_ov_o(b)
   \end{equation}
   \begin{itemize}
-    \item $v_c(b)$ - cohesion to ensure agents remain part of the swarm.
-    \item $v_r(b)$ - repulsion to ensure agents do not collide.
-    \item $v_d(b)$ - destination vector for goal based swarms.
-    \item $v_o(b)$ - obstacle avoidance vector.
-    \item $k_c, k_r, k_d, k_o$ are weightings to allow modifications to the vector effects. 
+    \item $v_c(b)$: cohesion term ensures agents remain part of the swarm.
+    \item $v_r(b)$: repulsion term ensures agents do not collide.
+    \item $v_d(b)$: destination vector for goal based swarms.
+    \item $v_o(b)$: obstacle avoidance vector.
+    \item Numerical weights $k_c, k_r, k_d, k_o$ to allow tuning of relative effects. 
   \end{itemize}
   
 \end{frame}
@@ -267,7 +253,6 @@
   \end{figure}
 \end{frame}
 
-
 \begin{frame}{Perimeter Detection (Concave)}
   \begin{figure}
     \begin{center}
@@ -296,13 +281,14 @@
       \caption{Concave detection}
     \end{figure}
   \column{0.5\textwidth}
-    As part of the perimeter detection a pair ($G_b$) of agents is generated. This is the first two agents identified as creating a `gap' in agent $b$'s neighbours. Equation~\ref{eq:ConcaveVoidPhysics3} calculates the centroid of the identified `gap'.
+    As part of the perimeter detection a pair $G_b = \{n_1, n_2\}$ of agents is generated. These are the first two agents identified as creating a `gap' in agent $b$'s neighbours. Equation~\ref{eq:ConcaveVoidPhysics3} calculates the centroid of the identified `gap'.
     \begin{center}
       \begin{equation}‎
-      D_{pos}(b)=\frac{1}{2}\mathlarger{\sum_{n \in G_b}}{n}
+      D_{pos}(b)=\frac{1}{2} (n_1 + n_2) %\mathlarger{\sum_{n \in G_b}}{n}
       \label{eq:ConcaveVoidPhysics3}‎
       \end{equation}
     \end{center}
+    ($n_1, n_2$ label agents and also denote their position vectors.)
   \end{columns}
 \end{frame}
 
@@ -312,14 +298,14 @@
     \column{0.5\textwidth}
       \begin{figure}
         \begin{center}
-          \includegraphics[width=5cm]{InterAgentEffect1.pdf}
+          \includegraphics[width=4cm]{InterAgentEffect1.pdf}
         \end{center}
         \caption{Initial positions}
       \end{figure}
     \column{0.5\textwidth}
         \begin{figure}
           \begin{center}
-            \includegraphics[width=5cm]{InterAgentEffect2.pdf}
+            \includegraphics[width=4cm]{InterAgentEffect2.pdf}
           \end{center}
           \caption{Agent movement}
         \end{figure}
@@ -332,14 +318,14 @@
     \column{0.5\textwidth}
       \begin{figure}
         \begin{center}
-          \includegraphics[width=5cm]{PerimeterBotsCircle3.pdf}
+          \includegraphics[width=4.5cm]{PerimeterBotsCircle3.pdf}
         \end{center}
         \caption{Initial positions}
       \end{figure}
     \column{0.5\textwidth}
         \begin{figure}
           \begin{center}
-            \includegraphics[width=5cm]{PerimeterBotsCircle4.pdf}
+            \includegraphics[width=4.5cm]{PerimeterBotsCircle4.pdf}
           \end{center}
           \caption{Agent movement}
         \end{figure}
@@ -386,6 +372,7 @@
 \section*{Appendix}
 
 \begin{frame}{Agent Movement}
+Here are the equations defining the movement vectors for cohesion and repulsion. \\$b, b'$ denote agents and also (inside the $\sum$s), their position vectors. \\$\mathcal R_b$ is the set of agents within agent $b$'s repulsion range; $\mathcal C_b$ is the set of agents within its cohesion range.
   \begin{equation}\label{eq:Repulsion1}
     v_r(b) = 
     \frac{1}{\card{\mathcal R_b}}
@@ -406,14 +393,14 @@
     \begin{equation}\label{eq:Direction}
       v_d(b) = d
     \end{equation}
-    \begin{eqnarray}\label{eq:Obstacle2}
-      v_o(b) & = & O_b \hat q_o \\
-      \mathrm{where~}  q_o & = & \sum_{o\in \mathcal O_b } \hat o
-      \nonumber \\
-      v_o(b) & = & O_b \left(\sum_{o\in \mathcal O_b }\hat o\right)^{\!\!\wedge} \nonumber
-    \end{eqnarray}
+$d$ is a constant vector which points to a destination.
+
+    \begin{equation}\label{eq:Obstacle2}
+      v_o(b) = O_b \left(\sum_{o\in \mathcal O_b }\hat o\right)^{\!\!\wedge}
+    \end{equation}
+$O_b$ is $b$'s detection detection range; $\mathcal O_b$ is the set of obstacles within this range.\\
+$o$ denotes an obstacle and (within the $\sum$) its position vector. The caret \^~ denotes normalisation of a vector to unit length.
 \end{frame}
 
 \end{document}
-
 
