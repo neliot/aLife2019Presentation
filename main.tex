@@ -1,4 +1,11 @@
 \documentclass{beamer}
+%\documentclass[handout]{beamer}
+\mode<presentation>{
+  \usetheme{Boadilla}
+  \usecolortheme{seahorse}
+  \setbeamertemplate{navigation symbols}{}
+}
+\usepackage[english]{babel}
 \newcommand{\card}[1]{\vert{#1}\vert}
 \newcommand{\magn}[1]{\vert{#1}\vert}
 \usepackage{relsize}
@@ -23,7 +30,7 @@
 %\usetheme{Goettingen}
 %\usetheme{Hannover}
 %\usetheme{Ilmenau}
-\usetheme{JuanLesPins}
+%\usetheme{JuanLesPins}
 %\usetheme{Luebeck}
 %\usetheme{Madrid}
 %\usetheme{Malmoe}
@@ -39,9 +46,9 @@
 \title{Void Reduction in Self-Healing Swarms}
 
 % A subtitle is optional and this may be deleted
-\subtitle{(Using proximity detection)}
+%\subtitle{(Using proximity detection)}
 
-\author{Neil~Eliot\inst{1}, David~Kendall\inst{1}, Alun~Moon\inst{1}, Michael~Brockway\inst{1}, Martyn~Amos\inst{1}}
+\author[N.~Eliot et al.]{Neil~Eliot\inst{1}, David~Kendall\inst{1}, Alun~Moon\inst{1}, Michael~Brockway\inst{1}, Martyn~Amos\inst{1}}
 % - Give the names in the same order as the appear in the paper.
 % - Use the \inst{?} command only if the authors have different
 %   affiliation.
@@ -292,9 +299,9 @@
   \column{0.5\textwidth}
     As part of the perimeter detection a pair $G_b = \{n_1, n_2\}$ of agents is generated. These are the first two agents identified as creating a `gap' in agent $b$'s neighbours. Equation~\ref{eq:ConcaveVoidPhysics3} calculates the centroid of the identified `gap'.
     \begin{center}
-      \begin{equation}‎
+      \begin{equation}
       D_{pos}(b)=\frac{1}{2} (n_1 + n_2) %\mathlarger{\sum_{n \in G_b}}{n}
-      \label{eq:ConcaveVoidPhysics3}‎
+      \label{eq:ConcaveVoidPhysics3}
       \end{equation}
     \end{center}
     ($n_1, n_2$ label agents and also denote their position vectors.)
