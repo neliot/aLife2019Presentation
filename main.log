@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.7.26)  27 JUL 2019 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.7.26)  27 JUL 2019 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1052,10 +1052,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 588CAF09ECDDB41740636B14247F873E;783.
  ) 
 Here is how much of TeX's memory you used:
- 18189 strings out of 492623
- 342821 string characters out of 6135669
- 428665 words of memory out of 5000000
- 21589 multiletter control sequences out of 15000+600000
+ 18181 strings out of 492623
+ 342644 string characters out of 6135669
+ 428547 words of memory out of 5000000
+ 21581 multiletter control sequences out of 15000+600000
  18503 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,63p,787b,704s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1071,7 +1071,7 @@ nts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.p
 fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (25 pages, 1683127 bytes).
+Output written on main.pdf (25 pages, 1683060 bytes).
 PDF statistics:
  490 PDF objects out of 1000 (max. 8388607)
  377 compressed objects within 4 object streams
