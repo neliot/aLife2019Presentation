@@ -78,16 +78,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="221.47854"
-     inkscape:cy="714.76032"
+     inkscape:zoom="2"
+     inkscape:cx="181.79206"
+     inkscape:cy="915.58257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="992"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -188,5 +188,31 @@
          x="60.5"
          y="129.86218"
          style="font-size:40px;line-height:1.25"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="105.94922"
+       y="39.309448"
+       id="text3873-3"><tspan
+         sodipodi:role="line"
+         id="tspan3875-6"
+         x="105.94922"
+         y="39.309448"
+         style="font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan877">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="112.05019"
+       y="256.18289"
+       id="text3873-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3875-6-5"
+         x="112.05019"
+         y="256.18289"
+         style="font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:Sans">n<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan877-3">2</tspan></tspan></text>
   </g>
 </svg>
