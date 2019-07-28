@@ -1,2 +1,1 @@
 \babel@toc {english}{}
-\beamer@sectionintoc {1}{How did we do that? }{3}{0}{1}
