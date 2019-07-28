@@ -1,1 +1,6 @@
 \babel@toc {english}{}
+\beamer@sectionintoc {1}{How did we do that?}{3}{0}{1}
+\beamer@sectionintoc {2}{Set the Ground Rules!}{4}{0}{2}
+\beamer@sectionintoc {3}{Communications and/or Sensing}{5}{0}{3}
+\beamer@sectionintoc {4}{Void Reduction}{9}{0}{4}
+\beamer@sectionintoc {5}{Simulated Results}{17}{0}{5}

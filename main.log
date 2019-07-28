@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.20)  28 JUL 2019 08:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.20)  28 JUL 2019 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -692,7 +692,7 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mat
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Simulator.pdf, id=35, 1084.05pt x 767.86874pt>
+<Simulator.pdf, id=59, 1084.05pt x 767.86874pt>
 File: Simulator.pdf Graphic file (type pdf)
 <use Simulator.pdf>
 Package pdftex.def Info: Simulator.pdf  used on input line 113.
@@ -704,12 +704,12 @@ Package pdftex.def Info: Simulator.pdf  used on input line 113.
 ] [4
 
 ]
-<MessagePropogation1.pdf, id=65, 294.91966pt x 319.81662pt>
+<MessagePropogation1.pdf, id=99, 294.91966pt x 319.81662pt>
 File: MessagePropogation1.pdf Graphic file (type pdf)
 <use MessagePropogation1.pdf>
 Package pdftex.def Info: MessagePropogation1.pdf  used on input line 178.
 (pdftex.def)             Requested size: 71.13188pt x 77.1333pt.
-<Comms1.pdf, id=66, 509.12762pt x 234.8775pt>
+<Comms1.pdf, id=100, 509.12762pt x 234.8775pt>
 File: Comms1.pdf Graphic file (type pdf)
 <use Comms1.pdf>
 Package pdftex.def Info: Comms1.pdf  used on input line 178.
@@ -720,7 +720,7 @@ Package pdftex.def Info: Comms1.pdf  used on input line 178.
 
 pdfTeX warning: pdflatex (file /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Comms1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<Proximity.pdf, id=90, 208.09746pt x 171.11629pt>
+<Proximity.pdf, id=123, 208.09746pt x 171.11629pt>
 File: Proximity.pdf Graphic file (type pdf)
 <use Proximity.pdf>
 Package pdftex.def Info: Proximity.pdf  used on input line 204.
@@ -730,7 +730,7 @@ Package pdftex.def Info: Proximity.pdf  used on input line 204.
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Proximity.pdf>] [7
 
 ]
-<StableForms.pdf, id=129, 365.84402pt x 173.32271pt>
+<StableForms.pdf, id=162, 365.84402pt x 173.32271pt>
 File: StableForms.pdf Graphic file (type pdf)
 <use StableForms.pdf>
 Package pdftex.def Info: StableForms.pdf  used on input line 236.
@@ -747,7 +747,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Stable-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Stable-eps-converted-to.pdf, id=130, 233.87375pt x 164.615pt>
+<Stable-eps-converted-to.pdf, id=163, 233.87375pt x 164.615pt>
 File: Stable-eps-converted-to.pdf Graphic file (type pdf)
 <use Stable-eps-converted-to.pdf>
 Package pdftex.def Info: Stable-eps-converted-to.pdf  used on input line 236.
@@ -757,7 +757,7 @@ Package pdftex.def Info: Stable-eps-converted-to.pdf  used on input line 236.
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/StableForms.pdf> </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Stable-eps-converted-to.pdf>] [9
 
 ]
-<Perimeters.pdf, id=151, 652.91481pt x 727.21687pt>
+<Perimeters.pdf, id=184, 652.91481pt x 727.21687pt>
 File: Perimeters.pdf Graphic file (type pdf)
 <use Perimeters.pdf>
 Package pdftex.def Info: Perimeters.pdf  used on input line 262.
@@ -765,7 +765,7 @@ Package pdftex.def Info: Perimeters.pdf  used on input line 262.
  [10
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Perimeters.pdf>]
-<SwarmStableShape1.pdf, id=160, 511.27287pt x 482.02716pt>
+<SwarmStableShape1.pdf, id=193, 511.27287pt x 482.02716pt>
 File: SwarmStableShape1.pdf Graphic file (type pdf)
 <use SwarmStableShape1.pdf>
 Package pdftex.def Info: SwarmStableShape1.pdf  used on input line 271.
@@ -773,7 +773,7 @@ Package pdftex.def Info: SwarmStableShape1.pdf  used on input line 271.
  [11
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/SwarmStableShape1.pdf>]
-<Perimeter1.pdf, id=176, 179.92218pt x 208.9959pt>
+<Perimeter1.pdf, id=208, 179.92218pt x 208.9959pt>
 File: Perimeter1.pdf Graphic file (type pdf)
 <use Perimeter1.pdf>
 Package pdftex.def Info: Perimeter1.pdf  used on input line 280.
@@ -781,7 +781,7 @@ Package pdftex.def Info: Perimeter1.pdf  used on input line 280.
  [12
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Perimeter1.pdf>]
-<Perimeter2.pdf, id=210, 148.51434pt x 164.11313pt>
+<Perimeter2.pdf, id=242, 148.51434pt x 164.11313pt>
 File: Perimeter2.pdf Graphic file (type pdf)
 <use Perimeter2.pdf>
 Package pdftex.def Info: Perimeter2.pdf  used on input line 289.
@@ -789,7 +789,7 @@ Package pdftex.def Info: Perimeter2.pdf  used on input line 289.
  [13
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/Perimeter2.pdf>]
-<VoidConcave1.pdf, id=239, 244.61702pt x 196.48407pt>
+<VoidConcave1.pdf, id=271, 244.61702pt x 196.48407pt>
 File: VoidConcave1.pdf Graphic file (type pdf)
 <use VoidConcave1.pdf>
 Package pdftex.def Info: VoidConcave1.pdf  used on input line 310.
@@ -797,12 +797,12 @@ Package pdftex.def Info: VoidConcave1.pdf  used on input line 310.
  [14
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/VoidConcave1.pdf>]
-<InterAgentEffect1.pdf, id=256, 305.14pt x 195.73125pt>
+<InterAgentEffect1.pdf, id=288, 305.14pt x 195.73125pt>
 File: InterAgentEffect1.pdf Graphic file (type pdf)
 <use InterAgentEffect1.pdf>
 Package pdftex.def Info: InterAgentEffect1.pdf  used on input line 330.
 (pdftex.def)             Requested size: 113.81102pt x 73.00479pt.
-<InterAgentEffect2.pdf, id=257, 305.14pt x 223.83624pt>
+<InterAgentEffect2.pdf, id=289, 305.14pt x 223.83624pt>
 File: InterAgentEffect2.pdf Graphic file (type pdf)
 <use InterAgentEffect2.pdf>
 Package pdftex.def Info: InterAgentEffect2.pdf  used on input line 330.
@@ -810,12 +810,12 @@ Package pdftex.def Info: InterAgentEffect2.pdf  used on input line 330.
  [15
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/InterAgentEffect1.pdf> </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/InterAgentEffect2.pdf>]
-<PerimeterBotsCircle3.pdf, id=276, 344.78813pt x 430.60875pt>
+<PerimeterBotsCircle3.pdf, id=308, 344.78813pt x 430.60875pt>
 File: PerimeterBotsCircle3.pdf Graphic file (type pdf)
 <use PerimeterBotsCircle3.pdf>
 Package pdftex.def Info: PerimeterBotsCircle3.pdf  used on input line 350.
 (pdftex.def)             Requested size: 128.0374pt x 159.90752pt.
-<PerimeterBotsCircle4.pdf, id=277, 335.00156pt x 430.60875pt>
+<PerimeterBotsCircle4.pdf, id=309, 335.00156pt x 430.60875pt>
 File: PerimeterBotsCircle4.pdf Graphic file (type pdf)
 <use PerimeterBotsCircle4.pdf>
 Package pdftex.def Info: PerimeterBotsCircle4.pdf  used on input line 350.
@@ -826,7 +826,7 @@ Package pdftex.def Info: PerimeterBotsCircle4.pdf  used on input line 350.
 
 pdfTeX warning: pdflatex (file /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/PerimeterBotsCircle4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<OilSlick.pdf, id=287, 449.68pt x 385.44pt>
+<OilSlick.pdf, id=320, 449.68pt x 385.44pt>
 File: OilSlick.pdf Graphic file (type pdf)
 <use OilSlick.pdf>
 Package pdftex.def Info: OilSlick.pdf  used on input line 362.
@@ -834,7 +834,7 @@ Package pdftex.def Info: OilSlick.pdf  used on input line 362.
  [17
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/OilSlick.pdf>]
-<OilSpillConcave3.png, id=300, 1129.21875pt x 623.32875pt>
+<OilSpillConcave3.png, id=332, 1129.21875pt x 623.32875pt>
 File: OilSpillConcave3.png Graphic file (type png)
 <use OilSpillConcave3.png>
 Package pdftex.def Info: OilSpillConcave3.png  used on input line 373.
@@ -842,7 +842,7 @@ Package pdftex.def Info: OilSpillConcave3.png  used on input line 373.
  [18
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/OilSpillConcave3.png>]
-<SwarmMobileScenario.png, id=310, 1022.82124pt x 866.23625pt>
+<SwarmMobileScenario.png, id=341, 1022.82124pt x 866.23625pt>
 File: SwarmMobileScenario.png Graphic file (type png)
 <use SwarmMobileScenario.png>
 Package pdftex.def Info: SwarmMobileScenario.png  used on input line 384.
@@ -850,7 +850,7 @@ Package pdftex.def Info: SwarmMobileScenario.png  used on input line 384.
  [19
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/SwarmMobileScenario.png>]
-<SwarmMobile.png, id=319, 1153.4292pt x 665.6067pt>
+<SwarmMobile.png, id=350, 1153.4292pt x 665.6067pt>
 File: SwarmMobile.png Graphic file (type png)
 <use SwarmMobile.png>
 Package pdftex.def Info: SwarmMobile.png  used on input line 395.
@@ -858,7 +858,7 @@ Package pdftex.def Info: SwarmMobile.png  used on input line 395.
  [20
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/SwarmMobile.png>]
-<SwarmMobile1.png, id=327, 1155.5973pt x 661.2705pt>
+<SwarmMobile1.png, id=358, 1155.5973pt x 661.2705pt>
 File: SwarmMobile1.png Graphic file (type png)
 <use SwarmMobile1.png>
 Package pdftex.def Info: SwarmMobile1.png  used on input line 406.
@@ -889,21 +889,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 466.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 466.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 466.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D40744CC849EB7A7B812BCCE681E3FC8;42.
+(rerunfilecheck)             Checksum: DF2BA176121441CDCD254056375A4F5C;361.
  ) 
 Here is how much of TeX's memory you used:
- 17825 strings out of 492982
- 338964 string characters out of 6134896
- 415795 words of memory out of 5000000
- 20897 multiletter control sequences out of 15000+600000
+ 17879 strings out of 492982
+ 339999 string characters out of 6134896
+ 415848 words of memory out of 5000000
+ 20945 multiletter control sequences out of 15000+600000
  18503 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,57p,859b,697s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,61p,859b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/main.pdf (25 pages, 1681273 bytes).
+Output written on /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/main.pdf (25 pages, 1682953 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
- 58 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 455 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 
