@@ -1,12 +1,2 @@
 \babel@toc {english}{}
 \beamer@sectionintoc {1}{How did we do that? }{3}{0}{1}
-\beamer@sectionintoc {2}{Set the Ground Rules!}{4}{0}{2}
-\beamer@subsectionintoc {2}{1}{Swarm Rules}{4}{0}{2}
-\beamer@sectionintoc {3}{Communications and/or Sensing}{5}{0}{3}
-\beamer@subsectionintoc {3}{1}{Communications}{5}{0}{3}
-\beamer@subsectionintoc {3}{2}{Sensing}{6}{0}{3}
-\beamer@sectionintoc {4}{Void Reduction}{9}{0}{4}
-\beamer@subsectionintoc {4}{1}{Model}{9}{0}{4}
-\beamer@subsectionintoc {4}{2}{Local Effect}{15}{0}{4}
-\beamer@subsectionintoc {4}{3}{Global Effect}{16}{0}{4}
-\beamer@subsectionintoc {4}{4}{Simulated Results}{17}{0}{4}

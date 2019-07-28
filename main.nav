@@ -7,84 +7,55 @@
 \headcommand {\sectionentry {1}{How did we do that? }{3}{How did we do that? }{0}}
 \headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\beamer@sectionpages {3}{3}}
-\headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\sectionentry {2}{Set the Ground Rules!}{4}{Set the Ground Rules!}{0}}
-\headcommand {\beamer@subsectionpages {4}{3}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Swarm Rules}}
-\headcommand {\slideentry {2}{1}{1}{4/4}{Swarm Rules}{0}}
+\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@sectionpages {4}{4}}
-\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\sectionentry {3}{Communications and/or Sensing}{5}{Communications and/or Sensing}{0}}
-\headcommand {\beamer@subsectionpages {5}{4}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{5}{Communications}}
-\headcommand {\slideentry {3}{1}{1}{5/5}{Communications}{0}}
+\headcommand {\slideentry {1}{0}{3}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{6}{Sensing}}
-\headcommand {\slideentry {3}{2}{1}{6/6}{Sensing}{0}}
+\headcommand {\slideentry {1}{0}{4}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {3}{2}{2}{7/7}{Sensing}{0}}
+\headcommand {\slideentry {1}{0}{5}{7/7}{}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {3}{2}{3}{8/8}{Sensing}{0}}
+\headcommand {\slideentry {1}{0}{6}{8/8}{}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@sectionpages {5}{8}}
-\headcommand {\beamer@subsectionpages {6}{8}}
-\headcommand {\sectionentry {4}{Void Reduction}{9}{Void Reduction}{0}}
-\headcommand {\beamer@subsectionpages {9}{8}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{9}{Model}}
-\headcommand {\slideentry {4}{1}{1}{9/9}{Model}{0}}
+\headcommand {\slideentry {1}{0}{7}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {4}{1}{2}{10/10}{Model}{0}}
+\headcommand {\slideentry {1}{0}{8}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {4}{1}{3}{11/11}{Model}{0}}
+\headcommand {\slideentry {1}{0}{9}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {4}{1}{4}{12/12}{Model}{0}}
+\headcommand {\slideentry {1}{0}{10}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {4}{1}{5}{13/13}{Model}{0}}
+\headcommand {\slideentry {1}{0}{11}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {4}{1}{6}{14/14}{Model}{0}}
+\headcommand {\slideentry {1}{0}{12}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionpages {9}{14}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{15}{Local Effect}}
-\headcommand {\slideentry {4}{2}{1}{15/15}{Local Effect}{0}}
+\headcommand {\slideentry {1}{0}{13}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{16}{Global Effect}}
-\headcommand {\slideentry {4}{3}{1}{16/16}{Global Effect}{0}}
+\headcommand {\slideentry {1}{0}{14}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{17}{Simulated Results}}
-\headcommand {\slideentry {4}{4}{1}{17/17}{Simulated Results}{0}}
+\headcommand {\slideentry {1}{0}{15}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {4}{4}{2}{18/18}{Simulated Results}{0}}
+\headcommand {\slideentry {1}{0}{16}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {4}{4}{3}{19/19}{Simulated Results}{0}}
+\headcommand {\slideentry {1}{0}{17}{19/19}{}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {4}{4}{4}{20/20}{Simulated Results}{0}}
+\headcommand {\slideentry {1}{0}{18}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {4}{4}{5}{21/21}{Simulated Results}{0}}
+\headcommand {\slideentry {1}{0}{19}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@sectionpages {9}{21}}
-\headcommand {\beamer@subsectionpages {17}{21}}
-\headcommand {\sectionentry {5}{Summary}{22}{Summary}{0}}
-\headcommand {\slideentry {5}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@sectionpages {3}{21}}
+\headcommand {\beamer@subsectionpages {3}{21}}
+\headcommand {\sectionentry {2}{Summary}{22}{Summary}{0}}
+\headcommand {\slideentry {2}{0}{1}{22/22}{}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@sectionpages {22}{22}}
-\headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\sectionentry {6}{Thank You}{23}{Thank You}{0}}
-\headcommand {\slideentry {6}{0}{1}{23/23}{}{0}}
+\headcommand {\slideentry {2}{0}{2}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@sectionpages {23}{23}}
-\headcommand {\beamer@subsectionpages {23}{23}}
-\headcommand {\sectionentry {7}{Appendix}{24}{Appendix}{0}}
-\headcommand {\slideentry {7}{0}{1}{24/24}{}{0}}
+\headcommand {\slideentry {2}{0}{3}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {7}{0}{2}{25/25}{}{0}}
+\headcommand {\slideentry {2}{0}{4}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
 \headcommand {\beamer@partpages {1}{25}}
-\headcommand {\beamer@subsectionpages {24}{25}}
-\headcommand {\beamer@sectionpages {24}{25}}
+\headcommand {\beamer@subsectionpages {22}{25}}
+\headcommand {\beamer@sectionpages {22}{25}}
 \headcommand {\beamer@documentpages {25}}
 \headcommand {\gdef \inserttotalframenumber {25}}
