@@ -1,9 +1,10 @@
 \documentclass{beamer}
 %\documentclass[handout]{beamer}
 \mode<presentation>{
-  \usetheme{Boadilla}
-  \usecolortheme{seahorse}
-  \setbeamertemplate{navigation symbols}{}
+  \usetheme{Madrid}
+%  \usetheme{Frankfurt}
+%  \usecolortheme{seahorse}
+%  \setbeamertemplate{navigation symbols}{}
 }
 \usepackage[english]{babel}
 \newcommand{\card}[1]{\vert{#1}\vert}
@@ -48,7 +49,7 @@
 % A subtitle is optional and this may be deleted
 %\subtitle{(Using proximity detection)}
 
-\author[N.~Eliot et al.]{Neil~Eliot\inst{1}, David~Kendall\inst{1}, Alun~Moon\inst{1}, Michael~Brockway\inst{1}, Martyn~Amos\inst{1}}
+\author[N.~Eliot et al.]{Neil~Eliot, David~Kendall, Alun~Moon, Michael~Brockway, Martyn~Amos}
 % - Give the names in the same order as the appear in the paper.
 % - Use the \inst{?} command only if the authors have different
 %   affiliation.
@@ -57,7 +58,6 @@
 
 \institute[Northumbria University] % (optional, but mostly needed)
 {
-  \inst{1}
   Department of Computer and Information Sciences\\
   University of Northumbria
   % \and
@@ -68,7 +68,7 @@
 % - Use the \inst command only if there are several affiliations.
 % - Keep it simple, no one is interested in your street address.
 
-\date{ALife, 2019}
+\date{ALIFE, 2019}
 % - Either use conference name or its abbreviation.
 % - Not really informative to the audience, more for people (including
 %   yourself) who are reading the slides online
@@ -112,8 +112,6 @@
   \end{center}
 \end{frame}  
 
-\section{How did we do that?}
-
 \begin{frame}{Introduction}
   \tableofcontents
   % You might wish to add the option [pausesections]
@@ -138,7 +136,7 @@
     \end{itemize}
   }
   \item {
-    Swarms can be made fault tolerant (resilient to agent loss).
+    Swarms can be static or goal-based (directional).
   }
   \end{itemize}
 \end{frame}
@@ -220,7 +218,7 @@
   
 \end{frame}
 
-\begin{frame}{The Swarm}
+\begin{frame}{Swarm Structures}
   \begin{figure}
     \begin{center}
       \includegraphics[width=4cm]{StableForms.pdf}
