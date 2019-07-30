@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.20)  29 JUL 2019 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.20)  30 JUL 2019 10:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,33 +792,33 @@ Package pdftex.def Info: Perimeter2.pdf  used on input line 287.
 <VoidConcave1.pdf, id=532, 244.61702pt x 196.48407pt>
 File: VoidConcave1.pdf Graphic file (type pdf)
 <use VoidConcave1.pdf>
-Package pdftex.def Info: VoidConcave1.pdf  used on input line 308.
+Package pdftex.def Info: VoidConcave1.pdf  used on input line 312.
 (pdftex.def)             Requested size: 142.26378pt x 114.27263pt.
  [14
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/VoidConcave1.pdf>]
-<InterAgentEffect1.pdf, id=569, 305.14pt x 195.73125pt>
+<InterAgentEffect1.pdf, id=570, 305.14pt x 195.73125pt>
 File: InterAgentEffect1.pdf Graphic file (type pdf)
 <use InterAgentEffect1.pdf>
-Package pdftex.def Info: InterAgentEffect1.pdf  used on input line 328.
+Package pdftex.def Info: InterAgentEffect1.pdf  used on input line 332.
 (pdftex.def)             Requested size: 113.81102pt x 73.00479pt.
-<InterAgentEffect2.pdf, id=570, 305.14pt x 223.83624pt>
+<InterAgentEffect2.pdf, id=571, 305.14pt x 223.83624pt>
 File: InterAgentEffect2.pdf Graphic file (type pdf)
 <use InterAgentEffect2.pdf>
-Package pdftex.def Info: InterAgentEffect2.pdf  used on input line 328.
+Package pdftex.def Info: InterAgentEffect2.pdf  used on input line 332.
 (pdftex.def)             Requested size: 113.81102pt x 83.48753pt.
  [15
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/InterAgentEffect1.pdf> </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/InterAgentEffect2.pdf>]
-<PerimeterBotsCircle3.pdf, id=608, 344.78813pt x 430.60875pt>
+<PerimeterBotsCircle3.pdf, id=609, 344.78813pt x 430.60875pt>
 File: PerimeterBotsCircle3.pdf Graphic file (type pdf)
 <use PerimeterBotsCircle3.pdf>
-Package pdftex.def Info: PerimeterBotsCircle3.pdf  used on input line 348.
+Package pdftex.def Info: PerimeterBotsCircle3.pdf  used on input line 352.
 (pdftex.def)             Requested size: 128.0374pt x 159.90752pt.
-<PerimeterBotsCircle4.pdf, id=609, 335.00156pt x 430.60875pt>
+<PerimeterBotsCircle4.pdf, id=610, 335.00156pt x 430.60875pt>
 File: PerimeterBotsCircle4.pdf Graphic file (type pdf)
 <use PerimeterBotsCircle4.pdf>
-Package pdftex.def Info: PerimeterBotsCircle4.pdf  used on input line 348.
+Package pdftex.def Info: PerimeterBotsCircle4.pdf  used on input line 352.
 (pdftex.def)             Requested size: 128.0374pt x 164.5726pt.
  [16
 
@@ -826,42 +826,42 @@ Package pdftex.def Info: PerimeterBotsCircle4.pdf  used on input line 348.
 
 pdfTeX warning: pdflatex (file /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/PerimeterBotsCircle4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<OilSlick.pdf, id=639, 449.68pt x 385.44pt>
+<OilSlick.pdf, id=640, 449.68pt x 385.44pt>
 File: OilSlick.pdf Graphic file (type pdf)
 <use OilSlick.pdf>
-Package pdftex.def Info: OilSlick.pdf  used on input line 360.
+Package pdftex.def Info: OilSlick.pdf  used on input line 364.
 (pdftex.def)             Requested size: 199.16928pt x 170.71745pt.
  [17
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/OilSlick.pdf>]
-<OilSpillConcave3.png, id=674, 1129.21875pt x 623.32875pt>
+<OilSpillConcave3.png, id=675, 1129.21875pt x 623.32875pt>
 File: OilSpillConcave3.png Graphic file (type png)
 <use OilSpillConcave3.png>
-Package pdftex.def Info: OilSpillConcave3.png  used on input line 371.
+Package pdftex.def Info: OilSpillConcave3.png  used on input line 375.
 (pdftex.def)             Requested size: 284.52756pt x 157.05875pt.
  [18
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/OilSpillConcave3.png>]
-<SwarmMobileScenario.png, id=703, 1022.82124pt x 866.23625pt>
+<SwarmMobileScenario.png, id=704, 1022.82124pt x 866.23625pt>
 File: SwarmMobileScenario.png Graphic file (type png)
 <use SwarmMobileScenario.png>
-Package pdftex.def Info: SwarmMobileScenario.png  used on input line 382.
+Package pdftex.def Info: SwarmMobileScenario.png  used on input line 386.
 (pdftex.def)             Requested size: 199.16928pt x 168.67085pt.
  [19
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/SwarmMobileScenario.png>]
-<SwarmMobile.png, id=733, 1153.4292pt x 665.6067pt>
+<SwarmMobile.png, id=734, 1153.4292pt x 665.6067pt>
 File: SwarmMobile.png Graphic file (type png)
 <use SwarmMobile.png>
-Package pdftex.def Info: SwarmMobile.png  used on input line 393.
+Package pdftex.def Info: SwarmMobile.png  used on input line 397.
 (pdftex.def)             Requested size: 284.52756pt x 164.18718pt.
  [20
 
  </home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/SwarmMobile.png>]
-<SwarmMobile1.png, id=760, 1155.5973pt x 661.2705pt>
+<SwarmMobile1.png, id=761, 1155.5973pt x 661.2705pt>
 File: SwarmMobile1.png Graphic file (type png)
 <use SwarmMobile1.png>
-Package pdftex.def Info: SwarmMobile1.png  used on input line 404.
+Package pdftex.def Info: SwarmMobile1.png  used on input line 408.
 (pdftex.def)             Requested size: 284.52756pt x 162.81485pt.
  [21
 
@@ -883,11 +883,11 @@ Package pdftex.def Info: SwarmMobile1.png  used on input line 404.
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 464.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 464.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 468.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 468.
  (/home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 464.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 464.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 468.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 468.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 386EE1B67E8556E922E8CC7474472A2B;307.
  ) 
@@ -899,11 +899,11 @@ Here is how much of TeX's memory you used:
  18503 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,61p,859b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/main.pdf (25 pages, 1700182 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /home/neil/neil@eliot.org.uk/NE-PhD/Writeup/Conference/Presentation/main.pdf (25 pages, 1707597 bytes).
 PDF statistics:
- 953 PDF objects out of 1000 (max. 8388607)
- 835 compressed objects within 9 object streams
+ 957 PDF objects out of 1000 (max. 8388607)
+ 838 compressed objects within 9 object streams
  63 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
